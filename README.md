@@ -19,7 +19,7 @@
 
    ```bash
    mkdir -p ~/.irssi/scripts
-   wget -O ~/.irssi/scripts/ntfy.pl https://raw.githubusercontent.com/ronilaukkarinen/irssi-ntfy/refs/heads/master/ntfy.pl
+   wget -O ~/.irssi/scripts/ntfy.pl https://raw.githubusercontent.com/rollecode/irssi-ntfy/refs/heads/master/ntfy.pl
    ```
 
 2. **Load the script** in Irssi:
@@ -52,8 +52,8 @@ To check if the endpoint URL is set correctly, you can run:
 
 ## Author
 
-- **Roni Laukkarinen**
-- **Contact**: [roni@dude.fi](mailto:roni@dude.fi)
+- **Rolle Laukkarinen**
+- **Contact**: [rolle@dude.fi](mailto:rolle@dude.fi)
 
 ## License
 

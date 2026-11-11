@@ -5,10 +5,10 @@ use Irssi::Irc;
 
 use vars qw($VERSION %IRSSI);
 
-$VERSION = '2.3';
+$VERSION = '2.3.1';
 %IRSSI = (
-    authors     => 'Roni Laukkarinen',
-    contact     => 'roni@dude.fi',
+    authors     => 'Rolle Laukkarinen',
+    contact     => 'rolle@dude.fi',
     name        => 'ntfy',
     description => 'Send notifications via ntfy when mentioned or receiving a private message, using built-in Irssi highlights with simplified formatting.',
     license     => 'GPLv2',
